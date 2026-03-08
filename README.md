@@ -1,3 +1,4 @@
+![Alt text](https://github.com/InterCentury/WebSync/blob/main/imgs/WebSync.jpg?raw=true)
 # WebSync
 
 A personal repository for storing my browser environment.
